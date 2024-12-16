@@ -1,0 +1,6 @@
+@StudiosApp_HostAddress = http://cm.moreau.com.ar:5001
+
+GET {{StudiosApp_HostAddress}}/api/
+Accept: application/json
+
+###
